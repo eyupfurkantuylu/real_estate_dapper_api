@@ -39,8 +39,6 @@ namespace RealEstate_Dapper_Api.Repositories.CategoryRepository
                 await connection.ExecuteAsync(query, parameters);
             }
 
-
-            throw new NotImplementedException();
         }
 
         public async Task<List<ResaultCategoryDto>> GetAllCategoryAsync()
