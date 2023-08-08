@@ -27,6 +27,8 @@
     <None Remove="Repositories\" />
     <None Remove="Repositories\CategoryRepository\" />
     <None Remove="Controllers\" />
+    <None Remove="Repositories\ProductRepository\" />
+    <None Remove="Dtos\ProductDtos\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -36,5 +38,7 @@
     <Folder Include="Repositories\" />
     <Folder Include="Repositories\CategoryRepository\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Repositories\ProductRepository\" />
+    <Folder Include="Dtos\ProductDtos\" />
   </ItemGroup>
 </Project>
