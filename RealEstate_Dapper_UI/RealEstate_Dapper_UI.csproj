@@ -10,8 +10,33 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
     <None Remove="Views\Profile\" />
+    <None Remove="Views\Default\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="ViewComponents\Layout\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\_HeaderViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_NavbarViewComponentPartial\" />
+    <None Remove="ViewComponents\HomePage\" />
+    <None Remove="Views\Shared\Components\_DefaultFeatureComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultHomePageProductList\" />
+    <None Remove="Views\Shared\Components\_DefaultWhoWeAreComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultServicesComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultProductListExploreCitiesComponentPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Profile\" />
+    <Folder Include="Views\Default\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="ViewComponents\Layout\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\_HeaderViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_NavbarViewComponentPartial\" />
+    <Folder Include="ViewComponents\HomePage\" />
+    <Folder Include="Views\Shared\Components\_DefaultFeatureComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultHomePageProductList\" />
+    <Folder Include="Views\Shared\Components\_DefaultWhoWeAreComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultServicesComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultServicesComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultProductListExploreCitiesComponentPartial\" />
   </ItemGroup>
 </Project>
