@@ -22,6 +22,12 @@
     <None Remove="Views\Shared\Components\_DefaultWhoWeAreComponentPartial\" />
     <None Remove="Views\Shared\Components\_DefaultServicesComponentPartial\" />
     <None Remove="Views\Shared\Components\_DefaultProductListExploreCitiesComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultOurClientsComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultSubFeatureComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultDiscountOfDayComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultBrandComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultFooterComponentPartial\" />
+    <None Remove="Views\Shared\Components\_DefaultScriptComponentPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Profile\" />
@@ -38,5 +44,11 @@
     <Folder Include="Views\Shared\Components\_DefaultServicesComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultServicesComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultProductListExploreCitiesComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultOurClientsComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultSubFeatureComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultDiscountOfDayComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultBrandComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultFooterComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultScriptComponentPartial\" />
   </ItemGroup>
 </Project>
