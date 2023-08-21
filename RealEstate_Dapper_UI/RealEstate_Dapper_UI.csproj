@@ -28,6 +28,8 @@
     <None Remove="Views\Shared\Components\_DefaultBrandComponentPartial\" />
     <None Remove="Views\Shared\Components\_DefaultFooterComponentPartial\" />
     <None Remove="Views\Shared\Components\_DefaultScriptComponentPartial\" />
+    <None Remove="Dtos\" />
+    <None Remove="Dtos\ProductDtos\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Profile\" />
@@ -50,5 +52,10 @@
     <Folder Include="Views\Shared\Components\_DefaultBrandComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultFooterComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultScriptComponentPartial\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Dtos\ProductDtos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 </Project>
