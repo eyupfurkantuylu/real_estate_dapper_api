@@ -52,7 +52,6 @@
     <Folder Include="Views\Shared\Components\_DefaultBrandComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultFooterComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultScriptComponentPartial\" />
-    <Folder Include="Dtos\" />
     <Folder Include="Dtos\ProductDtos\" />
   </ItemGroup>
   <ItemGroup>
