@@ -34,25 +34,23 @@
   <ItemGroup>
     <Folder Include="Views\Profile\" />
     <Folder Include="Views\Default\" />
-    <Folder Include="ViewComponents\" />
     <Folder Include="ViewComponents\Layout\" />
-    <Folder Include="Views\Shared\Components\" />
     <Folder Include="Views\Shared\Components\_HeaderViewComponentPartial\" />
     <Folder Include="Views\Shared\Components\_NavbarViewComponentPartial\" />
     <Folder Include="ViewComponents\HomePage\" />
     <Folder Include="Views\Shared\Components\_DefaultFeatureComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultHomePageProductList\" />
     <Folder Include="Views\Shared\Components\_DefaultWhoWeAreComponentPartial\" />
-    <Folder Include="Views\Shared\Components\_DefaultServicesComponentPartial\" />
-    <Folder Include="Views\Shared\Components\_DefaultServicesComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultBottomGridComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultBottomGridComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultProductListExploreCitiesComponentPartial\" />
-    <Folder Include="Views\Shared\Components\_DefaultOurClientsComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_DefaultOurTestimonialComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultSubFeatureComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultDiscountOfDayComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultBrandComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultFooterComponentPartial\" />
     <Folder Include="Views\Shared\Components\_DefaultScriptComponentPartial\" />
-    <Folder Include="Dtos\ProductDtos\" />
+    <Folder Include="wwwroot\cityimages\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
